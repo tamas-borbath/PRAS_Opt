@@ -1,0 +1,7 @@
+name = "PRAS_Opt"
+uuid = "7aa806d4-25c8-4d22-82c5-e197d2d57a4e"
+authors = ["Tamás Borbáth <borbathtamas@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
